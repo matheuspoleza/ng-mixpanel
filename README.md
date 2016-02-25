@@ -1,2 +1,2 @@
 # ng-mixpanel
-Providers to set mixpanel to your angular application
+Easier way to set mixpanel to your angular application
